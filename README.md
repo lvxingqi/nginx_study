@@ -1,2 +1,2 @@
 # nginx_study
-nginx学习笔记和代码
+<pre>nginx学习笔记和代码</pre>
